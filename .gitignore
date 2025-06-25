@@ -1,2 +1,4 @@
 data
-venv
+vnev
+models
+.gitignore
